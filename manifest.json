@@ -1,0 +1,11 @@
+{
+	"id": "gigachat-text-generator",
+	"name": "GigaChat Text Generator",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Генерация текста с помощью GigaChat API",
+	"author": "Jean Rasin",
+	"authorUrl": "https://github.com/JeanRasin",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
